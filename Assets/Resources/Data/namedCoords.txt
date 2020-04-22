@@ -1,0 +1,28 @@
+William Arrol Annex:Building:null:-3.324412, 55.910487
+William Arrol:Building:null:-3.324337, 55.910919
+Lord Balerno:Building:null:-3.320422, 55.909037
+Mary Burton:Building:null:-3.321046, 55.908958
+Earl Mountbatten:Building:null:-3.322672, 55.912408
+Cameron Smail Library:Building:Study Area:-3.322166, 55.908773
+Elements:Food Area:null:-3.321885, 55.910102
+The Piece:Food Area:null:-3.322296, 55.910504
+Postgraduate Centre:Building:Study Area:-3.323616, 55.912119
+Edinburgh Business School:Building:null:-3.320173, 55.908466
+John Muir:Building:null:-3.321054, 55.911874
+David Brewster:Building:null:-3.322449, 55.911361
+Colin Maclaurin:Building:null:-3.321891, 55.912563
+Main Reception:Building:null:-3.320646, 55.909368
+James Naysmyth:Building:null:-3.323577, 55.911388
+Henry Prais:Building:null:-3.321916, 55.908325
+William Perkin:Building:null:-3.321719, 55.911666
+The Lawn :Landmark:null:-3.323329, 55.90936
+Edwin Chadwick:Building:null:-3.325173, 55.911464
+Student Union:Building:Food Area:-3.318075, 55.911152
+Esmee Fairbairn:Building:null:-3.321303, 55.908085
+The Chaplaincy:Building:null:-3.323665, 55.910685
+Hugh Nisbet:Building:Contains 4 eating areas:-3.321666, 55.910315
+The Lake:Landmark:null:-3.319904, 55.911131
+Cafe Brio:Food Area:null:-3.322081, 55.910337
+Scott Russell:Building:null:-3.322916, 55.910859
+John Coulson:Building:null:-3.324268, 55.911906
+GRID:Building:Study Area:-3.319571, 55.911929

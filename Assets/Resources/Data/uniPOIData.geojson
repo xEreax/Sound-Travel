@@ -1,0 +1,453 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "William Arrol Annex",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.324412,
+          55.910487
+        ],
+        "type": "Point"
+      },
+      "id": "020c9040ba2cb5a380bb940aa46720d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "William Arrol",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.324337,
+          55.910919
+        ],
+        "type": "Point"
+      },
+      "id": "06673479eb3b5642f9c823e50299e7a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lord Balerno",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.320422,
+          55.909037
+        ],
+        "type": "Point"
+      },
+      "id": "0743c79ffb481ef1cf3f9ba5768ed680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mary Burton",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321046,
+          55.908958
+        ],
+        "type": "Point"
+      },
+      "id": "1ea775eb1af8e7fa691ea129ab1ab714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Earl Mountbatten",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.322672,
+          55.912408
+        ],
+        "type": "Point"
+      },
+      "id": "20e88bf09c7ccfa6cfd2c43cd598b220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cameron Smail Library",
+        "description": "Building",
+        "extra": "Study Area"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.322166,
+          55.908773
+        ],
+        "type": "Point"
+      },
+      "id": "25fa23edbd8096cdb049357693048105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elements",
+        "description": "Food Area",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321885,
+          55.910102
+        ],
+        "type": "Point"
+      },
+      "id": "26f6337e338ed037207df0b371b1ea71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Food Area",
+        "title": "The Piece",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.322296,
+          55.910504
+        ],
+        "type": "Point"
+      },
+      "id": "2e56ab2efe0f8bc6236b991358c51bb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Postgraduate Centre",
+        "description": "Building",
+        "extra": "Study Area"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.323616,
+          55.912119
+        ],
+        "type": "Point"
+      },
+      "id": "39e7a3079fed529a87cafdd797c3dc3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edinburgh Business School",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.320173,
+          55.908466
+        ],
+        "type": "Point"
+      },
+      "id": "3f054c4f4a6914f2dea5de5256065e27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Muir",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321054,
+          55.911874
+        ],
+        "type": "Point"
+      },
+      "id": "460dcc90ef34db483117f3ea5743da15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "David Brewster",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.322449,
+          55.911361
+        ],
+        "type": "Point"
+      },
+      "id": "4718c1f568549aea7e4712aaf3edb99b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Colin Maclaurin",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321891,
+          55.912563
+        ],
+        "type": "Point"
+      },
+      "id": "4bb530e43f00e899f5eded7ee180749f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Reception",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.320646,
+          55.909368
+        ],
+        "type": "Point"
+      },
+      "id": "55f559214f70555824b51c57301436ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "James Naysmyth",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.323577,
+          55.911388
+        ],
+        "type": "Point"
+      },
+      "id": "56332e809a46b584d28eb269e08312eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Henry Prais",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321916,
+          55.908325
+        ],
+        "type": "Point"
+      },
+      "id": "576834ac58b96714e02f874f19c61fb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "William Perkin",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321719,
+          55.911666
+        ],
+        "type": "Point"
+      },
+      "id": "5aea1cfcd250c8d0e654bfb14da9733f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Lawn ",
+        "description": "Landmark",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.323329,
+          55.90936
+        ],
+        "type": "Point"
+      },
+      "id": "79f830e05ebc29f650038e9862fd15ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edwin Chadwick",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.325173,
+          55.911464
+        ],
+        "type": "Point"
+      },
+      "id": "85e6633fa90fc2ac33bd86ff632a925b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Student Union",
+        "description": "Building",
+        "extra": "Food Area"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.318075,
+          55.911152
+        ],
+        "type": "Point"
+      },
+      "id": "8a0d416e3fa931da8385ce69be062c2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Esmee Fairbairn",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321303,
+          55.908085
+        ],
+        "type": "Point"
+      },
+      "id": "98d5099cb10659635b0d9f9ce4254f6f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Chaplaincy",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.323665,
+          55.910685
+        ],
+        "type": "Point"
+      },
+      "id": "a346c1e4a5a03275130a3851480f0d0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hugh Nisbet",
+        "description": "Building",
+        "extra": "Contains 4 eating areas"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.321666,
+          55.910315
+        ],
+        "type": "Point"
+      },
+      "id": "a5021b45bd48b0b0cf20167c0a68121d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Lake",
+        "description": "Landmark",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.319904,
+          55.911131
+        ],
+        "type": "Point"
+      },
+      "id": "c3df32bb4a395fa908dba33db6b101d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Food Area",
+        "title": "Cafe Brio",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.322081,
+          55.910337
+        ],
+        "type": "Point"
+      },
+      "id": "d417b89ab46a2422c8f06fc1485da631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Building",
+        "title": "Scott Russell",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.322916,
+          55.910859
+        ],
+        "type": "Point"
+      },
+      "id": "d9111c6709043d8ca24e696cc91a2edc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Coulson",
+        "description": "Building",
+        "extra": "null"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.324268,
+          55.911906
+        ],
+        "type": "Point"
+      },
+      "id": "de619c89cba14cc323163b5d486e8e43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GRID",
+        "description": "Building",
+        "extra": "Study Area"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.319571,
+          55.911929
+        ],
+        "type": "Point"
+      },
+      "id": "fe3010f0c1a6d4b65a853893ff80a955"
+    }
+  ],
+  "type": "FeatureCollection"
+}
